@@ -1,26 +1,26 @@
 # Database-Practice
-### Database Assignment
 
-- #### 01 Create a database named class_one_assignment
 
-- #### 02 create a table named customers
+:large_orange_diamond: Create a database named class_one_assignment
 
-- #### 03 insert the following customer data into table
+:large_orange_diamond: create a table named customers
 
-- #### 04 Show only 2 members whose points are more than 1000
+:large_orange_diamond: insert the following customer data into table
 
-- #### 05 Find the customers whose age is in 1980 to 1990 or points less than 1000
+:large_orange_diamond: Show only 2 members whose points are more than 1000
 
-- #### 06 Order the customers by points in ascending and descending order
+:large_orange_diamond: Find the customers whose age is in 1980 to 1990 or points less than 1000
 
-- #### 07 Find the customer whose name contains 'burgh' using like and regexp
+:large_orange_diamond: Order the customers by points in ascending and descending order
 
-- #### 08 Find the customer who does not have phone number
+:large_orange_diamond: Find the customer whose name contains 'burgh' using like and regexp
 
-- #### 09 Change the 'Date of Birth' column name into 'dob'
+:large_orange_diamond: Find the customer who does not have phone number
 
-- #### 10 Find the max point holder customer
+:large_orange_diamond: Change the 'Date of Birth' column name into 'dob'
 
-- #### 11 Execute a query for the following scenario
+:large_orange_diamond: Find the max point holder customer
 
-- #### 12 show customer table
+:large_orange_diamond: Execute a query for the following scenario
+
+:large_orange_diamond: show customer table
