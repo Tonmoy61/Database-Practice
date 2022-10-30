@@ -1,4 +1,4 @@
-# Database-Practice
+<h1 align="center">Database-Practice</h1>
 
 
 :large_orange_diamond: Create a database named class_one_assignment
